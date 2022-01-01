@@ -98,7 +98,7 @@ const StyledCard = styled.div`
   border-radius: 10px;
 
   h4 {
-    color: blue;
+    color: purple;
   }
 
   p {
